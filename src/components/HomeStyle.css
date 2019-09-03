@@ -1,0 +1,9 @@
+.HomeStyle{
+    width:100%;
+    height: 300px;
+    background: rgb(94, 179, 98);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

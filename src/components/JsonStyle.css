@@ -1,0 +1,46 @@
+.JsonStyle{
+    width:100%; 
+    background: rgb(94, 179, 98);
+    color: white;
+    display: block; 
+    padding: 110px 0 ;
+    text-align: center
+}
+#box2{
+    display: flex;
+    width: 100%;
+    margin-left: 50px;
+}
+#box1{
+    
+    display: flex;
+    width: 100%;
+    margin-left: 50px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 20px;
+  
+}
+div p{
+    border: 1px solid black;
+    padding: 10px;
+}
+.flex1{
+    flex: 0.20;
+}
+.flex2{
+    flex: 0.10;
+}
+.flex3{
+    flex: 0.50;
+}
+.parent{
+    border: 1px solid black;
+    background-color: yellowgreen;
+    width: 600px;
+    margin-left: 27%;
+    margin-top: 20px;
+    height: 300px;
+    overflow: auto;
+}
